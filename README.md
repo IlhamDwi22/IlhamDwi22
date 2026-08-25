@@ -63,7 +63,6 @@ I’m an Informatics Engineering student at **Politeknik Negeri Semarang (Poline
 
 <!-- --- -->
 
-</div>
 
 ## 🧠 Tech Stack & Tools
 
@@ -148,15 +147,11 @@ I’m an Informatics Engineering student at **Politeknik Negeri Semarang (Poline
 
 ---
 
-<h2 data-importer="text" align="left">Play Games With Me!</h2>
+<h2 align="left">🕹️ Contribution Activity / Snake Game</h2>
 
-###
-
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/IlhamDwi22/IlhamDwi22/snake-output/snake.svg" alt="Snake animation" />
-
-###
+<div align="center">
+  <img src="https://raw.githubusercontent.com/IlhamDwi22/IlhamDwi22/snake-output/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 

@@ -1,6 +1,6 @@
 <img src="img/ilham-github-header.jpg">
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=16&duration=3000&pause=1000&color=3F00F7&center=true&vCenter=true&width=435&separator=%3C&lines=Welcome+to+my+digital+playground+%F0%9F%9A%80%3Cjangan+lupa+titik+koma;+%E2%98%95%3Cit's+not+a+bug%2C+it's+an+undocumented+feature+%F0%9F%98%89%3Cnpm+run+build+%26%26+pray+%F0%9F%A4%B2" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=16&duration=3000&pause=1000&color=20BFFF&center=true&vCenter=true&width=435&separator=%3C&lines=Welcome+to+my+digital+playground+%F0%9F%9A%80%3Cjangan+lupa+titik+koma;+%E2%98%95%3Cit's+not+a+bug%2C+it's+an+undocumented+feature+%F0%9F%98%89%3Cnpm+run+build+%26%26+pray+%F0%9F%A4%B2" alt="Typing SVG" /></a>
 </div>
 
 <h1 align="center">Hi there, I'm Ilham Dwipangga 👋</h1>
@@ -62,7 +62,6 @@ I’m an Informatics Engineering student at **Politeknik Negeri Semarang (Poline
 </table> -->
 
 <!-- --- -->
-
 
 ## 🧠 Tech Stack & Tools
 
@@ -136,10 +135,6 @@ I’m an Informatics Engineering student at **Politeknik Negeri Semarang (Poline
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=IlhamDwi22&layout=compact&langs_count=6&theme=nightowl)](https://github-stats-extended.vercel.app/api/top-langs?username=IlhamDwi22&layout=compact&langs_count=6&theme=nightowl)
 
 </div> -->
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/IlhamDwi22/IlhamDwi22/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=IlhamDwi22&style=for-the-badge&label=PROFILE+VIEWS&color=010101" alt="Profile Views" />

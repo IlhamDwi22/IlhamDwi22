@@ -14,9 +14,9 @@
 
 I’m an Informatics Engineering student at **Politeknik Negeri Semarang (Polines)** who enjoys developing practical applications, from mobile productivity tools to full-stack web platforms and interactive games.
 
-🎓 **Education:** Informatics Engineering at Politeknik Negeri Semarang (Polines)
-💡 **Focus Areas:** Full-Stack Web Development, Mobile App Development, and Game Logic
-🌱 **Currently Exploring:** Modern JavaScript ecosystem, Advanced Flutter/Dart architecture, and Backend APIs
+🎓 **Education:** Informatics Engineering at Politeknik Negeri Semarang (Polines) <br>
+💡 **Focus Areas:** Full-Stack Web Development, Mobile App Development, and Game Logic <br>
+🌱 **Currently Exploring:** Modern JavaScript ecosystem, Advanced Flutter/Dart architecture, and Backend APIs 
 
 ---
 

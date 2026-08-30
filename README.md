@@ -1,4 +1,4 @@
-<img src="img/ilham-github-header.jpg">
+<!-- <img src="img/ilham-github-header.jpg"> -->
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=16&duration=3000&pause=1000&color=20BFFF&center=true&vCenter=true&width=435&separator=%3C&lines=Welcome+to+my+digital+playground+%F0%9F%9A%80%3Cjangan+lupa+titik+koma;+%E2%98%95%3Cit's+not+a+bug%2C+it's+an+undocumented+feature+%F0%9F%98%89%3Cnpm+run+build+%26%26+pray+%F0%9F%A4%B2" alt="Typing SVG" /></a>
 </div>

@@ -112,6 +112,12 @@ I’m an Informatics Engineering student at **Politeknik Negeri Semarang (Poline
     <td><code>Unity</code> <code>C#</code></td>
     <td>Game petualangan 2D rhythm yang menggabungkan mekanisme platformer dengan pertarungan berbasis ketukan ritme musik.</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/IlhamDwi22/shortlytics"><strong>Shortlytics</strong></a></td>
+    <td>Web App</td>
+    <td><code>Next.js</code> <code>PostgreSQL (Supabase)</code></td>
+    <td>URL shortener dengan analitik live berbasis Server-Sent Events, mencakup breakdown device, referrer, dan lokasi.</td>
+  </tr>
 </table>
 
 ---

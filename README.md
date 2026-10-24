@@ -16,8 +16,8 @@ Hi! I'm an Informatics Engineering student at **Politeknik Negeri Semarang (Poli
 
 - **What I'm building now:** Developing **Shortlytics** (a URL shortener web app) and experimenting with AI-driven web solutions.
 - **What I'm exploring:** Modern JavaScript/TypeScript ecosystems, foundational AI engineering concepts, and cloud backends.
-- **Core interests:** Full-Stack Web, Cross-Platform Mobile Apps, and Game Logic.
-- **Ask me about:** Next.js, Laravel, Flutter, or Unity!
+- **Core interests:** Full-Stack Web, Mobile Apps, Cloud Computing
+- **Ask me about:** Next.js, Laravel, Flutter, Linux
 
 ---
 

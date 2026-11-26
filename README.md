@@ -14,10 +14,10 @@
 
 Hi! I'm an Informatics Engineering student at **Politeknik Negeri Semarang (Polines)**. I enjoy turning complex problems into clean, practical digital products.
 
-- **What I'm building now:** Developing **Shortlytics** (a URL shortener web app) and experimenting with AI-driven web solutions.
+- **What I'm building now:** Working on a final project focused on a decision support system for recommending high-achieving students, and participating in the "Asah Ied 2026" bootcamp by Dicoding within the Next-Gen AI Engineer learning track.
 - **What I'm exploring:** Modern JavaScript/TypeScript ecosystems, foundational AI engineering concepts, and cloud backends.
-- **Core interests:** Full-Stack Web, Mobile Apps, Cloud Computing
-- **Ask me about:** Next.js, Laravel, Flutter, Linux
+- **Core interests:** Full-Stack Web, AI & Data, Mobile Apps, Cloud Computing
+- **Ask me about:** Next.js, Laravel, Flutter, FastAPI, Python
 
 ---
 
